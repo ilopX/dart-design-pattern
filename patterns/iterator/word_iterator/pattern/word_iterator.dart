@@ -1,6 +1,6 @@
 import '../text/text.dart';
 
-class WordIterator extends Iterator<String> {
+class WordIterator implements Iterator<String> {
   WordIterator(this._text);
 
   @override
