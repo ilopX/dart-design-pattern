@@ -4,31 +4,31 @@ It contains **Dart** examples for all classic **GoF** design patterns.
 
 # Implementation checklist:
 - [ ] **Creation**
-    - [x] **Abstract Factory** [[Conceptual Gui Factory](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/abstract_factory/conceptual_gui_factory)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Tool Panel Factory](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/abstract_factory/tool_panel_factory)]
-    - [x] **Builder** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/builder/conceptual)] [[Color Text Format](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/builder/color_text_format)]
-    - [x] **Factory Method** [[Conceptual Platform Dialog](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/factory_method/conceptual_platform_dialog)]
-    - [x] **Prototype** - [[Shapes](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/prototype/shapes)] 
-    - [x] **Singleton** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/singleton/conceptual)]
+    - [x] **Abstract Factory** [[Conceptual Gui Factory](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/abstract_factory/conceptual_gui_factory)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Tool Panel Factory](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/abstract_factory/tool_panel_factory)]
+    - [x] **Builder** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/builder/conceptual)] [[Color Text Format](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/builder/color_text_format)]
+    - [x] **Factory Method** [[Conceptual Platform Dialog](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/factory_method/conceptual_platform_dialog)]
+    - [x] **Prototype** - [[Shapes](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/prototype/shapes)] 
+    - [x] **Singleton** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/singleton/conceptual)]
 - [ ]  **Behavioral**
-    - [x] **Chain of Responsibility** - [[Server Middleware](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/chain_of_responsibility/server_middleware)]
-    - [x] **Command** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/command/conceptual)] [[Text Editor](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/command/text_editor)] 
-    - [x] **Interpreter**  - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/interpreter/conceptual)]
-    - [x] **Iterator** - [[Word Iterator](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/iterator/word_iterator)] [[Github Commit](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/iterator/github_commit)]
-    - [x] **Mediator** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/mediator/conceptual)]
-    - [x] **Memento** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/memento/conceptual)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Memento Editor](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/memento/memento_editor)] 
-    - [x] **Observer** - [[Open-Close Editor Events](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/observer/open_close_editor_events)] [[AppObserver](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/observer/app_observer)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Subscriber Flutter Widget](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/observer/subscriber_flutter_widget)]
-    - [x] **State** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/state/three_state)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) State Manipulator](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/state/manipulator_state)]
-    - [x] **Template Method** - [[Data Miner](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/template_method/data_miner)] 
-    - [X] **Visitor** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/visitor/conceptual)] [[Shape XML Exporter](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/visitor/shapes_exporter)]
-    - [X] **Strategy** [[View Strategy](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/strategy/view_strategy)] [[Reservation Cargo Spaces](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/strategy/reservation_cargo_spaces)]
+    - [x] **Chain of Responsibility** - [[Server Middleware](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/chain_of_responsibility/server_middleware)]
+    - [x] **Command** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/command/conceptual)] [[Text Editor](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/command/text_editor)] 
+    - [x] **Interpreter**  - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/interpreter/conceptual)]
+    - [x] **Iterator** - [[Word Iterator](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/iterator/word_iterator)] [[Github Commit](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/iterator/github_commit)]
+    - [x] **Mediator** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/mediator/conceptual)]
+    - [x] **Memento** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/memento/conceptual)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Memento Editor](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/memento/memento_editor)] 
+    - [x] **Observer** - [[Open-Close Editor Events](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/observer/open_close_editor_events)] [[AppObserver](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/observer/app_observer)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Subscriber Flutter Widget](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/observer/subscriber_flutter_widget)]
+    - [x] **State** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/state/three_state)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) State Manipulator](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/state/manipulator_state)]
+    - [x] **Template Method** - [[Data Miner](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/template_method/data_miner)] 
+    - [X] **Visitor** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/visitor/conceptual)] [[Shape XML Exporter](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/visitor/shapes_exporter)]
+    - [X] **Strategy** [[View Strategy](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/strategy/view_strategy)] [[Reservation Cargo Spaces](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/strategy/reservation_cargo_spaces)]
 - [ ] **Structural**
-    - [x] **Adapter** - [[Text Graphics](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/adapter/text_graphics)] [[Square Round conflict](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/adapter/square_round_conflict)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Flutter Adapter](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/adapter/flutter_adapter)] 
-    - [x] **Bridge** - [[Remote Device Control](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/bridge/devices_remote_control)] [[Clock](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/bridge/clock)] 
-    - [x] **Composite** - [[Image Editor](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/composite/image_editor)] [[Products and Boxes](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/composite/products_and_boxes)] 
-    - [x] **Decorator** - [[Data Source Decoder](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/decorator/data_source_decoder)]
-    - [x] **Facade** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/facade/conceptual)]
-    - [x] **Flyweight** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/flyweight/conceptual)]
-    - [x] **Proxy** - [[Conceptual](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/proxy/conceptual)]
+    - [x] **Adapter** - [[Text Graphics](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/adapter/text_graphics)] [[Square Round conflict](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/adapter/square_round_conflict)] [[![16x16](https://user-images.githubusercontent.com/8049534/171852337-57db0faf-1f5e-489a-a79a-22ed4f47b4ed.png) Flutter Adapter](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/adapter/flutter_adapter)] 
+    - [x] **Bridge** - [[Remote Device Control](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/bridge/devices_remote_control)] [[Clock](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/bridge/clock)] 
+    - [x] **Composite** - [[Image Editor](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/composite/image_editor)] [[Products and Boxes](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/composite/products_and_boxes)] 
+    - [x] **Decorator** - [[Data Source Decoder](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/decorator/data_source_decoder)]
+    - [x] **Facade** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/facade/conceptual)]
+    - [x] **Flyweight** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/flyweight/conceptual)]
+    - [x] **Proxy** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/proxy/conceptual)]
 
 ## Requirements
 The examples were written in **Dart 2.17**.
@@ -79,7 +79,7 @@ flutter build web -t bin\main.dart
 ```
 
 ### Deploy flutter demos
-1. Fork this repo: `https://github.com/RefactoringGuru/design-patterns-dart`
+1. Fork this repo: `https://github.com/ilopX/design-patterns-dart`
 2. Apply your changes.
 3. Run the script `dart bin\deploy_flutter_demos.dart`.
 This script will build a web platform flutter app and push the changes to your **web-demos** branch on github.
