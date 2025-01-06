@@ -1,5 +1,4 @@
 # Design Patterns in Dart
-This repository is part of the [**Refactoring.Guru**](https://refactoring.guru/design-patterns) project.
 It contains **Dart** examples for all classic **GoF** design patterns.
 
 # Implementation checklist:
@@ -32,7 +31,7 @@ It contains **Dart** examples for all classic **GoF** design patterns.
 
 ## Requirements
 The examples were written in **Dart 2.17**.
-Some complex examples require **Flutter 3.0.0**.
+Some complex examples require **Flutter 3.6.0**.
 
 ## Contributor's Guide
 We appreciate any help, whether it's a simple fix of a typo or a whole new example. 
@@ -63,9 +62,6 @@ Here's a style guide which might help you to keep your changes consistent with o
     ```dart
         // EN: All products families have the same varieties (MacOS/Windows).
         // This is a MacOS variant of a button.
-        
-        // RU: Все семейства продуктов имеют одни и те же вариации (MacOS/Windows).
-        // Это вариант кнопки под MacOS.
     ```
     Don't be scared and ignore the non-English part of such comments. If you want to change 
     something in a comment like this, then do it. Even if you do it wrong, we'll tell you how 
@@ -84,7 +80,7 @@ flutter build web -t bin\main.dart
 3. Run the script `dart bin\deploy_flutter_demos.dart`.
 This script will build a web platform flutter app and push the changes to your **web-demos** branch on github.
 4. You can now make a pull request on the **web-demos** branch.
-5. Once approved for the merge, the web app will be available at https://refactoringguru.github.io/design-patterns-dart .
+5. Once approved for the merge, the web app will be available at https://ilopX.github.io/design-patterns-dart .
 
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
@@ -93,4 +89,4 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 
 ## Credits
-Authors: Alexander Shvets ([@neochief](https://github.com/neochief)), ilopX ([@ilopX](https://github.com/ilopX))
+Authors: ilopX ([@ilopX](https://github.com/ilopX))
