@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Refactoring Guru: Flutter launcher',
+      title: 'Gof Pattern: Flutter launcher',
       theme: ThemeData(
         primarySwatch: Colors.pink,
         iconTheme: IconThemeData(
