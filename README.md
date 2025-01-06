@@ -30,8 +30,8 @@ It contains **Dart** examples for all classic **GoF** design patterns.
     - [x] **Proxy** - [[Conceptual](https://github.com/ilopX/design-patterns-dart/tree/main/patterns/proxy/conceptual)]
 
 ## Requirements
-The examples were written in **Dart 2.17**.
-Some complex examples require **Flutter 3.6.0**.
+The examples were written in **Dart 3.6.0**.
+Some complex examples require **Flutter 3.27.1**.
 
 ## Contributor's Guide
 We appreciate any help, whether it's a simple fix of a typo or a whole new example. 
