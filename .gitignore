@@ -5,3 +5,5 @@ windows/
 
 .packages
 pubspec.lock
+design_patterns_dart.iml
+.metadata

@@ -20,9 +20,9 @@ void main() async {
   clear();
 }
 
- final tmpDir = Directory.systemTemp.createTempSync();
- final projectDir = thisPath(r'..\');
- final webBuildDir = Directory(projectDir.uri.toFilePath() + r'build\web');
+final tmpDir = Directory.systemTemp.createTempSync();
+final projectDir = thisPath(r'..\');
+final webBuildDir = Directory(projectDir.uri.toFilePath() + r'build\web');
 late final String originUrl;
 
 Future<void> init() async {
@@ -45,9 +45,9 @@ Future<void> cloneOriginRepository() async {
 }
 
 Future<void> fetchUpstream() async {
-  final shvets = r'https://github.com/RefactoringGuru/design-patterns-dart.git';
-  print('Fetch upstream: [web-demos] $shvets');
-  await cmd('git remote add upstream $shvets', workingDirectory: tmpDir);
+  final repo = r'https://github.com/ilopX/design-patterns-dart.git';
+  print('Fetch upstream: [web-demos] $repo');
+  await cmd('git remote add upstream $repo', workingDirectory: tmpDir);
   await cmd('git fetch upstream', workingDirectory: tmpDir);
 }
 

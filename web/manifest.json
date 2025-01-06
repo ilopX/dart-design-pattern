@@ -1,6 +1,6 @@
 {
-    "name": "flutter_launcher",
-    "short_name": "flutter_launcher",
+    "name": "design_patterns_dart",
+    "short_name": "design_patterns_dart",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
