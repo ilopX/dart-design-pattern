@@ -13,9 +13,9 @@ This complex example includes these implementations:
 - [[SubscriberWidget](https://github.com/RefactoringGuru/design-patterns-dart/tree/main/patterns/observer/subscriber_flutter_widget)]
 
 ### Online demo:
-Click on the picture to see a [demo](https://refactoringguru.github.io/design-patterns-dart/#/adapter/flutter_adapter).
+Click on the picture to see a [demo](https://ilopX.github.io/design-patterns-dart/#/adapter/flutter_adapter).
 
-[![image](https://user-images.githubusercontent.com/8049534/152689272-d4bed484-e216-4eda-8833-928ada7d4051.png)](https://refactoringguru.github.io/design-patterns-dart/#/adapter/flutter_adapter)
+[![image](https://user-images.githubusercontent.com/8049534/152689272-d4bed484-e216-4eda-8833-928ada7d4051.png)](https://ilopX.github.io/design-patterns-dart/#/adapter/flutter_adapter)
 
 ### Client code:
 ```dart

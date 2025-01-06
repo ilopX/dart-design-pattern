@@ -5,9 +5,9 @@ changes. It appears as if the object changed its class.
 Tutorial: [here](https://refactoring.guru/design-patterns/state).
 
 ### Online demo:
-Click on the picture to see the [demo](https://RefactoringGuru.github.io/design-patterns-dart/#/state/manipulator_state).
+Click on the picture to see the [demo](https://ilopX.github.io/design-patterns-dart/#/state/manipulator_state).
 
-[![image](https://user-images.githubusercontent.com/8049534/171070341-1decb58f-033b-4eb5-89d4-355aafa6b680.png)](https://refactoringguru.github.io/design-patterns-dart/#/state/manipulator_state)
+[![image](https://user-images.githubusercontent.com/8049534/171070341-1decb58f-033b-4eb5-89d4-355aafa6b680.png)](https://ilopX.github.io/design-patterns-dart/#/state/manipulator_state)
 
 ### Video
 https://user-images.githubusercontent.com/8049534/171499203-1400c3ae-d5cd-4e48-a0b6-0252f4345d19.mp4
